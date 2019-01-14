@@ -1,0 +1,4 @@
+# THIS FILE WILL CHANGE YOUR FINGERPRINT TO 3T ONE
+ro.build.fingerprint=OnePlus/OnePlus3/OnePlus3T:8.0.0/OPR1.170623.032/1812060016:user/release-keys
+ro.bootimage.build.fingerprint=OnePlus/OnePlus3/OnePlus3T:8.0.0/OPR1.170623.032/1812060016:user/release-keys
+ro.vendor.build.fingerprint=OnePlus/OnePlus3/OnePlus3T:8.0.0/OPR1.170623.032/1812060016:user/release-keys
