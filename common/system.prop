@@ -2,3 +2,4 @@
 ro.build.fingerprint=OnePlus/OnePlus3/OnePlus3T:8.0.0/OPR1.170623.032/1812060016:user/release-keys
 ro.bootimage.build.fingerprint=OnePlus/OnePlus3/OnePlus3T:8.0.0/OPR1.170623.032/1812060016:user/release-keys
 ro.vendor.build.fingerprint=OnePlus/OnePlus3/OnePlus3T:8.0.0/OPR1.170623.032/1812060016:user/release-keys
+ro.build.version.security_patch=2019-01-07
