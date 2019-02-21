@@ -1,3 +1,5 @@
+## THIS MODULE HAS BEEN DISCONTINUED, AS THE MODULE WITH WITH PIXEL 2 FINGERPRINT DOES THE SAME THING AND THERE'S NO ADVANTAGE OF DEVELOPING TWO THINGS THAT DO THE SAME STUFF ##
+
 # OnePlus 3 ARCore enabler
 A Magisk module that enables ARCore support for OnePlus 3 and allows you to install apps with ARCore support via Play Store.
 
